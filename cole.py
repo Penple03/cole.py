@@ -2,9 +2,9 @@
 
 print('Hello world!')
 
-# user input wowo
+# user input wowowowo
 print(input('Enter your name: ') + ' smells bad')
 
 # variables owo
-character = input('Enter character name: ') + '.chr'
-del character
+character = input('Enter character name: ') + '.chr' #owowo
+del character # whats this?
